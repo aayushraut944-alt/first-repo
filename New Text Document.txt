@@ -1,1 +1,3 @@
-kndkenkekewdHDUIHDHHdkhkidkdudnddcddede
+class : person
+person add.detail
+add.clear
